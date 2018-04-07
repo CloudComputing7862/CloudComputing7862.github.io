@@ -1,3 +1,7 @@
+theme: jekyll-theme-cayman
+title: Welcome to the Cloud Computing's homepage!
+description: Feel free to bookmark his to keep an eye on my project updates
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CloudComputing7862/CloudComputing7862.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
