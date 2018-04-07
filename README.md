@@ -1,5 +1,7 @@
 ##theme: jekyll-theme-cayman
+
 ##title: Welcome to the Cloud Computing's homepage!
+
 ##description: Feel free to bookmark his to keep an eye on my project updates
 
 ## Welcome to GitHub Pages
